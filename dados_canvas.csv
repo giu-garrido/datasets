@@ -1,0 +1,421 @@
+﻿id,tarefa,canal,espera_dias,tentativas,concluido,perdeu_prazo,satisfacao_1a5,funcionalidade_desejada
+E001,Pedir aproveitamento,E-mail,10.3,1,Não,Não,1,Acompanhar andamento
+E002,Resolver matrícula,E-mail,9.1,3,Não,Sim,1,Receber notificações
+E003,Pedir aproveitamento,E-mail,11.4,2,Sim,Sim,1,Enviar documentos online
+E004,Pedir aproveitamento,Portal atual,4.9,1,Sim,Não,3,Acompanhar andamento
+E005,Pedir aproveitamento,E-mail,9.9,3,Não,Sim,1,Acompanhar andamento
+E006,Pedir aproveitamento,Telefone,5.9,2,Sim,Sim,2,Receber notificações
+E007,Tirar dúvida financeira,Telefone,4.6,1,Sim,Sim,3,Acompanhar andamento
+E008,Resolver matrícula,Portal atual,3.0,1,Sim,Não,4,Saber prazo estimado
+E009,Pedir aproveitamento,E-mail,9.8,1,Sim,Não,2,Acompanhar andamento
+E010,Tirar dúvida financeira,Presencial,4.1,1,Sim,Não,3,Acompanhar andamento
+E011,Solicitar documento,Portal atual,2.7,1,Não,Não,4,Receber notificações
+E012,Resolver matrícula,Presencial,4.6,1,Sim,Não,3,Saber prazo estimado
+E013,Pedir aproveitamento,Telefone,7.7,3,Sim,Sim,3,Acompanhar andamento
+E014,Solicitar documento,Presencial,1.6,1,Não,Não,3,Enviar documentos online
+E015,Solicitar documento,Portal atual,0.9,1,Sim,Não,5,Centralizar solicitações
+E016,Tirar dúvida financeira,E-mail,6.5,2,Sim,Não,3,Acompanhar andamento
+E017,Tirar dúvida financeira,Presencial,2.7,1,Sim,Não,5,Centralizar solicitações
+E018,Solicitar documento,Presencial,2.0,1,Sim,Não,4,Centralizar solicitações
+E019,Resolver matrícula,E-mail,7.7,1,Sim,Não,2,Saber prazo estimado
+E020,Pedir aproveitamento,Portal atual,5.4,1,Não,Não,4,Acompanhar andamento
+E021,Pedir aproveitamento,Presencial,5.1,1,Não,Sim,3,Enviar documentos online
+E022,Acompanhar requerimento,Presencial,3.2,2,Sim,Sim,5,Acompanhar andamento
+E023,Pedir aproveitamento,Presencial,6.3,2,Não,Não,1,Acompanhar andamento
+E024,Solicitar documento,Portal atual,1.4,1,Sim,Não,5,Acompanhar andamento
+E025,Acompanhar requerimento,Presencial,4.6,1,Sim,Não,5,Enviar documentos online
+E026,Acompanhar requerimento,Telefone,3.8,1,Sim,Não,3,Acompanhar andamento
+E027,Tirar dúvida financeira,E-mail,5.4,1,Sim,Não,2,Acompanhar andamento
+E028,Solicitar documento,Telefone,7.8,1,Sim,Sim,4,Acompanhar andamento
+E029,Solicitar documento,Portal atual,2.8,1,Sim,Sim,4,Acompanhar andamento
+E030,Solicitar documento,E-mail,7.4,1,Sim,Não,2,Acompanhar andamento
+E031,Solicitar documento,Presencial,7.6,2,Sim,Não,1,Saber prazo estimado
+E032,Solicitar documento,Portal atual,0.4,1,Sim,Não,5,Saber prazo estimado
+E033,Pedir aproveitamento,Telefone,7.2,3,Sim,Não,2,Acompanhar andamento
+E034,Tirar dúvida financeira,E-mail,9.7,2,Sim,Não,1,Saber prazo estimado
+E035,Acompanhar requerimento,E-mail,9.2,4,Não,Sim,1,Acompanhar andamento
+E036,Pedir aproveitamento,Portal atual,5.7,1,Sim,Sim,2,Acompanhar andamento
+E037,Acompanhar requerimento,Telefone,8.3,3,Não,Sim,1,Receber notificações
+E038,Tirar dúvida financeira,E-mail,6.5,2,Sim,Não,3,Acompanhar andamento
+E039,Solicitar documento,Telefone,5.3,2,Não,Não,2,Receber notificações
+E040,Resolver matrícula,Presencial,5.7,1,Sim,Não,3,Centralizar solicitações
+E041,Pedir aproveitamento,E-mail,9.1,3,Não,Não,1,Receber notificações
+E042,Pedir aproveitamento,Presencial,8.9,2,Sim,Não,2,Saber prazo estimado
+E043,Solicitar documento,Portal atual,2.1,1,Sim,Não,4,Enviar documentos online
+E044,Solicitar documento,Portal atual,2.9,1,Sim,Não,4,Enviar documentos online
+E045,Solicitar documento,Presencial,4.3,2,Não,Sim,3,Centralizar solicitações
+E046,Pedir aproveitamento,Telefone,9.9,1,Sim,Não,3,Enviar documentos online
+E047,Acompanhar requerimento,Presencial,2.8,1,Sim,Não,3,Acompanhar andamento
+E048,Tirar dúvida financeira,Presencial,3.2,1,Sim,Não,3,Receber notificações
+E049,Pedir aproveitamento,E-mail,9.6,3,Não,Não,1,Acompanhar andamento
+E050,Tirar dúvida financeira,E-mail,10.3,1,Sim,Não,1,Enviar documentos online
+E051,Tirar dúvida financeira,E-mail,5.1,2,Sim,Não,5,Acompanhar andamento
+E052,Tirar dúvida financeira,E-mail,5.5,2,Não,Não,1,Enviar documentos online
+E053,Resolver matrícula,E-mail,10.6,5,Não,Não,1,Acompanhar andamento
+E054,Acompanhar requerimento,Presencial,3.9,1,Sim,Não,4,Saber prazo estimado
+E055,Acompanhar requerimento,E-mail,8.5,1,Sim,Não,4,Saber prazo estimado
+E056,Resolver matrícula,Telefone,4.5,2,Sim,Não,4,Acompanhar andamento
+E057,Acompanhar requerimento,Portal atual,2.4,2,Sim,Não,5,Saber prazo estimado
+E058,Resolver matrícula,E-mail,7.3,2,Sim,Não,2,Receber notificações
+E059,Tirar dúvida financeira,Presencial,1.8,1,Sim,Não,4,Saber prazo estimado
+E060,Solicitar documento,E-mail,6.8,3,Não,Não,1,Receber notificações
+E061,Acompanhar requerimento,E-mail,5.9,3,Sim,Não,2,Saber prazo estimado
+E062,Resolver matrícula,E-mail,6.3,1,Sim,Não,2,Enviar documentos online
+E063,Tirar dúvida financeira,Telefone,4.9,4,Não,Não,1,Enviar documentos online
+E064,Acompanhar requerimento,Portal atual,3.8,2,Sim,Sim,3,Receber notificações
+E065,Acompanhar requerimento,E-mail,5.3,2,Sim,Não,3,Saber prazo estimado
+E066,Solicitar documento,E-mail,6.4,3,Não,Não,2,Acompanhar andamento
+E067,Solicitar documento,E-mail,5.0,1,Sim,Sim,3,Centralizar solicitações
+E068,Pedir aproveitamento,Presencial,4.5,2,Sim,Não,3,Centralizar solicitações
+E069,Solicitar documento,Presencial,3.7,3,Sim,Não,4,Centralizar solicitações
+E070,Pedir aproveitamento,E-mail,9.3,2,Sim,Sim,2,Acompanhar andamento
+E071,Resolver matrícula,E-mail,10.0,4,Não,Sim,1,Saber prazo estimado
+E072,Tirar dúvida financeira,Telefone,5.7,1,Sim,Não,4,Centralizar solicitações
+E073,Resolver matrícula,E-mail,8.4,2,Não,Não,1,Acompanhar andamento
+E074,Tirar dúvida financeira,Presencial,2.8,1,Sim,Sim,3,Acompanhar andamento
+E075,Solicitar documento,Presencial,1.8,1,Sim,Não,4,Acompanhar andamento
+E076,Resolver matrícula,Presencial,4.0,1,Sim,Não,4,Acompanhar andamento
+E077,Acompanhar requerimento,Presencial,4.0,1,Sim,Não,3,Acompanhar andamento
+E078,Resolver matrícula,Presencial,3.6,1,Sim,Não,3,Receber notificações
+E079,Pedir aproveitamento,Presencial,7.3,2,Sim,Sim,1,Enviar documentos online
+E080,Solicitar documento,E-mail,4.4,1,Não,Não,3,Saber prazo estimado
+E081,Acompanhar requerimento,Presencial,3.9,1,Não,Não,3,Receber notificações
+E082,Pedir aproveitamento,E-mail,11.4,2,Sim,Não,1,Acompanhar andamento
+E083,Pedir aproveitamento,Telefone,11.0,3,Sim,Não,1,Receber notificações
+E084,Acompanhar requerimento,Presencial,4.2,1,Sim,Não,4,Enviar documentos online
+E085,Tirar dúvida financeira,Presencial,2.5,1,Sim,Não,4,Enviar documentos online
+E086,Solicitar documento,Portal atual,2.1,1,Sim,Não,5,Enviar documentos online
+E087,Pedir aproveitamento,Portal atual,5.1,1,Não,Não,2,Acompanhar andamento
+E088,Acompanhar requerimento,E-mail,7.3,2,Sim,Não,3,Acompanhar andamento
+E089,Tirar dúvida financeira,Telefone,4.4,1,Sim,Não,4,Enviar documentos online
+E090,Solicitar documento,Portal atual,1.2,1,Sim,Não,5,Acompanhar andamento
+E091,Acompanhar requerimento,E-mail,10.7,2,Não,Não,1,Enviar documentos online
+E092,Acompanhar requerimento,E-mail,8.6,2,Sim,Não,1,Centralizar solicitações
+E093,Solicitar documento,Presencial,2.8,1,Sim,Não,4,Receber notificações
+E094,Resolver matrícula,Presencial,3.9,1,Sim,Não,4,Acompanhar andamento
+E095,Pedir aproveitamento,Portal atual,5.9,3,Sim,Não,2,Acompanhar andamento
+E096,Acompanhar requerimento,E-mail,6.3,1,Sim,Não,3,Saber prazo estimado
+E097,Resolver matrícula,E-mail,8.4,2,Não,Sim,1,Acompanhar andamento
+E098,Resolver matrícula,Telefone,5.2,1,Sim,Não,4,Centralizar solicitações
+E099,Resolver matrícula,E-mail,10.4,1,Não,Não,1,Receber notificações
+E100,Tirar dúvida financeira,E-mail,6.7,1,Sim,Não,4,Centralizar solicitações
+E101,Solicitar documento,E-mail,4.3,1,Sim,Não,4,Enviar documentos online
+E102,Tirar dúvida financeira,E-mail,5.6,4,Sim,Não,1,Acompanhar andamento
+E103,Resolver matrícula,Telefone,11.3,3,Sim,Não,1,Centralizar solicitações
+E104,Resolver matrícula,Presencial,6.7,1,Sim,Não,3,Receber notificações
+E105,Pedir aproveitamento,E-mail,8.5,3,Sim,Não,2,Acompanhar andamento
+E106,Resolver matrícula,Portal atual,3.9,1,Não,Não,4,Receber notificações
+E107,Tirar dúvida financeira,Telefone,4.5,1,Sim,Não,3,Receber notificações
+E108,Solicitar documento,Presencial,4.0,1,Sim,Não,5,Saber prazo estimado
+E109,Acompanhar requerimento,Presencial,3.1,1,Sim,Não,4,Centralizar solicitações
+E110,Solicitar documento,E-mail,3.7,1,Sim,Não,4,Enviar documentos online
+E111,Solicitar documento,E-mail,5.6,1,Não,Não,2,Enviar documentos online
+E112,Tirar dúvida financeira,E-mail,5.2,5,Não,Não,3,Receber notificações
+E113,Solicitar documento,E-mail,6.2,2,Sim,Não,4,Acompanhar andamento
+E114,Solicitar documento,E-mail,6.3,1,Não,Sim,2,Centralizar solicitações
+E115,Solicitar documento,Presencial,5.4,3,Sim,Não,3,Saber prazo estimado
+E116,Pedir aproveitamento,Presencial,4.8,1,Sim,Não,4,Enviar documentos online
+E117,Acompanhar requerimento,Portal atual,3.4,1,Não,Não,4,Receber notificações
+E118,Solicitar documento,Telefone,2.7,1,Sim,Não,5,Saber prazo estimado
+E119,Acompanhar requerimento,E-mail,6.6,2,Sim,Não,2,Acompanhar andamento
+E120,Solicitar documento,E-mail,5.2,3,Sim,Não,2,Receber notificações
+E121,Acompanhar requerimento,Presencial,4.0,1,Sim,Não,4,Receber notificações
+E122,Resolver matrícula,Presencial,4.4,1,Sim,Não,5,Saber prazo estimado
+E123,Resolver matrícula,Portal atual,4.7,1,Sim,Não,5,Centralizar solicitações
+E124,Solicitar documento,Presencial,2.4,1,Sim,Não,5,Saber prazo estimado
+E125,Solicitar documento,Presencial,1.6,1,Sim,Não,5,Saber prazo estimado
+E126,Tirar dúvida financeira,E-mail,6.6,1,Sim,Não,3,Acompanhar andamento
+E127,Solicitar documento,Portal atual,2.6,2,Sim,Não,4,Acompanhar andamento
+E128,Tirar dúvida financeira,Presencial,2.3,1,Sim,Não,5,Acompanhar andamento
+E129,Acompanhar requerimento,E-mail,6.1,1,Sim,Não,3,Centralizar solicitações
+E130,Acompanhar requerimento,Presencial,2.9,1,Sim,Não,4,Saber prazo estimado
+E131,Tirar dúvida financeira,Portal atual,1.5,1,Sim,Não,5,Saber prazo estimado
+E132,Solicitar documento,Portal atual,0.8,1,Não,Não,5,Enviar documentos online
+E133,Solicitar documento,E-mail,6.6,3,Sim,Não,2,Saber prazo estimado
+E134,Acompanhar requerimento,E-mail,5.4,2,Sim,Não,2,Receber notificações
+E135,Resolver matrícula,Presencial,4.4,1,Sim,Não,4,Acompanhar andamento
+E136,Acompanhar requerimento,Portal atual,4.5,1,Não,Não,3,Enviar documentos online
+E137,Solicitar documento,Presencial,6.2,1,Não,Não,1,Receber notificações
+E138,Solicitar documento,Telefone,2.5,1,Sim,Não,4,Saber prazo estimado
+E139,Tirar dúvida financeira,E-mail,7.5,2,Sim,Não,1,Saber prazo estimado
+E140,Tirar dúvida financeira,E-mail,4.2,1,Sim,Não,3,Saber prazo estimado
+E141,Acompanhar requerimento,Presencial,5.2,1,Sim,Não,4,Acompanhar andamento
+E142,Pedir aproveitamento,E-mail,7.5,2,Sim,Sim,3,Acompanhar andamento
+E143,Solicitar documento,Portal atual,2.5,2,Sim,Não,4,Receber notificações
+E144,Resolver matrícula,Presencial,4.4,2,Sim,Não,3,Acompanhar andamento
+E145,Acompanhar requerimento,Telefone,5.8,1,Sim,Não,3,Receber notificações
+E146,Resolver matrícula,Presencial,3.4,1,Sim,Não,5,Centralizar solicitações
+E147,Pedir aproveitamento,Telefone,8.8,2,Não,Não,1,Saber prazo estimado
+E148,Acompanhar requerimento,Telefone,3.3,1,Sim,Não,5,Acompanhar andamento
+E149,Pedir aproveitamento,E-mail,8.2,1,Sim,Não,4,Acompanhar andamento
+E150,Tirar dúvida financeira,Portal atual,1.1,1,Sim,Não,5,Acompanhar andamento
+E151,Tirar dúvida financeira,Portal atual,3.7,1,Sim,Não,3,Centralizar solicitações
+E152,Resolver matrícula,Presencial,10.2,4,Sim,Não,1,Enviar documentos online
+E153,Resolver matrícula,Presencial,6.2,2,Sim,Não,3,Receber notificações
+E154,Resolver matrícula,Portal atual,2.9,1,Sim,Não,5,Enviar documentos online
+E155,Solicitar documento,Portal atual,5.1,1,Sim,Não,3,Saber prazo estimado
+E156,Resolver matrícula,E-mail,13.1,5,Não,Não,1,Enviar documentos online
+E157,Resolver matrícula,Presencial,3.4,1,Sim,Não,4,Acompanhar andamento
+E158,Solicitar documento,Portal atual,1.6,1,Sim,Não,5,Saber prazo estimado
+E159,Pedir aproveitamento,Presencial,7.9,1,Sim,Não,3,Receber notificações
+E160,Pedir aproveitamento,Presencial,5.2,3,Não,Sim,3,Acompanhar andamento
+E161,Tirar dúvida financeira,E-mail,4.3,1,Sim,Não,4,Receber notificações
+E162,Resolver matrícula,Presencial,5.4,1,Sim,Não,2,Enviar documentos online
+E163,Acompanhar requerimento,Portal atual,2.9,1,Sim,Não,5,Receber notificações
+E164,Tirar dúvida financeira,E-mail,4.8,1,Não,Não,2,Centralizar solicitações
+E165,Acompanhar requerimento,E-mail,7.3,3,Sim,Não,2,Acompanhar andamento
+E166,Solicitar documento,Portal atual,1.6,1,Sim,Não,5,Saber prazo estimado
+E167,Resolver matrícula,Portal atual,4.5,2,Sim,Não,3,Receber notificações
+E168,Resolver matrícula,Presencial,4.8,1,Não,Sim,3,Enviar documentos online
+E169,Acompanhar requerimento,Presencial,6.5,2,Sim,Não,1,Acompanhar andamento
+E170,Solicitar documento,E-mail,4.1,1,Sim,Não,4,Receber notificações
+E171,Acompanhar requerimento,Presencial,3.1,1,Sim,Não,4,Receber notificações
+E172,Resolver matrícula,Telefone,5.8,1,Sim,Não,3,Centralizar solicitações
+E173,Resolver matrícula,Presencial,3.4,1,Sim,Não,5,Acompanhar andamento
+E174,Acompanhar requerimento,Portal atual,1.6,1,Sim,Não,4,Enviar documentos online
+E175,Pedir aproveitamento,Presencial,6.8,2,Não,Não,1,Saber prazo estimado
+E176,Pedir aproveitamento,Presencial,7.4,2,Sim,Não,2,Saber prazo estimado
+E177,Solicitar documento,Telefone,3.4,1,Sim,Não,5,Centralizar solicitações
+E178,Acompanhar requerimento,E-mail,6.8,2,Sim,Não,3,Saber prazo estimado
+E179,Resolver matrícula,Portal atual,4.5,2,Sim,Não,3,Acompanhar andamento
+E180,Solicitar documento,Telefone,3.2,1,Sim,Não,4,Receber notificações
+E181,Acompanhar requerimento,Presencial,2.7,1,Não,Não,4,Saber prazo estimado
+E182,Solicitar documento,Presencial,3.2,1,Sim,Não,4,Receber notificações
+E183,Resolver matrícula,E-mail,9.6,3,Sim,Não,1,Saber prazo estimado
+E184,Resolver matrícula,Presencial,3.7,1,Sim,Não,5,Acompanhar andamento
+E185,Acompanhar requerimento,E-mail,7.1,3,Não,Não,2,Receber notificações
+E186,Solicitar documento,Telefone,4.0,1,Não,Não,4,Saber prazo estimado
+E187,Solicitar documento,Telefone,3.2,1,Não,Não,3,Acompanhar andamento
+E188,Tirar dúvida financeira,E-mail,11.3,1,Não,Não,1,Acompanhar andamento
+E189,Resolver matrícula,E-mail,6.5,2,Sim,Não,2,Saber prazo estimado
+E190,Tirar dúvida financeira,E-mail,8.1,2,Sim,Não,3,Receber notificações
+E191,Tirar dúvida financeira,Portal atual,3.7,2,Sim,Não,2,Acompanhar andamento
+E192,Resolver matrícula,Telefone,4.4,1,Sim,Não,3,Enviar documentos online
+E193,Resolver matrícula,E-mail,7.2,1,Não,Não,2,Saber prazo estimado
+E194,Acompanhar requerimento,Presencial,4.7,1,Sim,Não,4,Receber notificações
+E195,Tirar dúvida financeira,Portal atual,3.9,1,Não,Não,4,Centralizar solicitações
+E196,Acompanhar requerimento,Portal atual,4.7,1,Sim,Não,4,Enviar documentos online
+E197,Resolver matrícula,Telefone,5.0,1,Sim,Não,3,Acompanhar andamento
+E198,Pedir aproveitamento,E-mail,8.6,1,Não,Sim,2,Acompanhar andamento
+E199,Tirar dúvida financeira,Presencial,5.3,2,Sim,Sim,4,Centralizar solicitações
+E200,Solicitar documento,Presencial,4.0,1,Sim,Não,3,Enviar documentos online
+E201,Acompanhar requerimento,E-mail,8.2,2,Sim,Não,2,Acompanhar andamento
+E202,Resolver matrícula,E-mail,6.6,3,Sim,Não,1,Acompanhar andamento
+E203,Solicitar documento,E-mail,6.3,3,Não,Sim,2,Centralizar solicitações
+E204,Solicitar documento,Telefone,3.3,2,Sim,Não,5,Enviar documentos online
+E205,Resolver matrícula,E-mail,7.3,1,Não,Não,3,Receber notificações
+E206,Resolver matrícula,Portal atual,3.1,1,Sim,Não,4,Saber prazo estimado
+E207,Solicitar documento,Portal atual,2.0,1,Sim,Não,5,Enviar documentos online
+E208,Acompanhar requerimento,Presencial,2.6,1,Sim,Não,4,Acompanhar andamento
+E209,Resolver matrícula,Telefone,6.4,3,Sim,Não,2,Acompanhar andamento
+E210,Solicitar documento,Telefone,4.6,1,Sim,Não,3,Acompanhar andamento
+E211,Solicitar documento,E-mail,4.2,1,Sim,Não,4,Receber notificações
+E212,Acompanhar requerimento,E-mail,6.6,1,Sim,Não,2,Acompanhar andamento
+E213,Pedir aproveitamento,Portal atual,5.9,2,Não,Não,2,Centralizar solicitações
+E214,Solicitar documento,E-mail,6.3,1,Não,Sim,2,Saber prazo estimado
+E215,Resolver matrícula,E-mail,11.5,1,Sim,Não,1,Receber notificações
+E216,Solicitar documento,E-mail,6.3,2,Sim,Não,2,Acompanhar andamento
+E217,Acompanhar requerimento,E-mail,6.4,1,Sim,Sim,3,Acompanhar andamento
+E218,Pedir aproveitamento,Presencial,5.2,1,Sim,Não,3,Receber notificações
+E219,Acompanhar requerimento,E-mail,7.8,2,Sim,Sim,4,Enviar documentos online
+E220,Solicitar documento,Telefone,3.2,1,Sim,Não,5,Acompanhar andamento
+E221,Tirar dúvida financeira,E-mail,5.8,1,Não,Não,2,Acompanhar andamento
+E222,Solicitar documento,Presencial,2.9,1,Sim,Não,4,Acompanhar andamento
+E223,Solicitar documento,Presencial,3.1,2,Sim,Não,4,Saber prazo estimado
+E224,Acompanhar requerimento,Portal atual,4.9,2,Não,Sim,4,Saber prazo estimado
+E225,Solicitar documento,Telefone,5.2,2,Não,Sim,2,Receber notificações
+E226,Solicitar documento,E-mail,5.9,1,Não,Não,3,Receber notificações
+E227,Resolver matrícula,E-mail,6.8,2,Sim,Não,3,Saber prazo estimado
+E228,Resolver matrícula,Portal atual,3.8,2,Sim,Não,4,Enviar documentos online
+E229,Resolver matrícula,Portal atual,11.1,2,Não,Não,1,Receber notificações
+E230,Resolver matrícula,Telefone,5.1,2,Sim,Não,4,Receber notificações
+E231,Solicitar documento,Presencial,5.4,2,Sim,Não,2,Receber notificações
+E232,Resolver matrícula,E-mail,7.4,2,Não,Sim,2,Enviar documentos online
+E233,Resolver matrícula,Telefone,4.4,1,Sim,Não,4,Acompanhar andamento
+E234,Solicitar documento,E-mail,5.6,1,Sim,Não,3,Receber notificações
+E235,Tirar dúvida financeira,Telefone,4.5,2,Não,Não,3,Receber notificações
+E236,Pedir aproveitamento,Portal atual,8.0,2,Não,Não,1,Saber prazo estimado
+E237,Tirar dúvida financeira,E-mail,6.2,2,Sim,Não,4,Enviar documentos online
+E238,Resolver matrícula,Presencial,3.7,1,Sim,Não,4,Acompanhar andamento
+E239,Resolver matrícula,Portal atual,3.3,1,Sim,Sim,3,Acompanhar andamento
+E240,Solicitar documento,Telefone,2.7,1,Sim,Não,3,Receber notificações
+E241,Resolver matrícula,E-mail,8.7,1,Sim,Sim,3,Acompanhar andamento
+E242,Solicitar documento,Telefone,2.2,1,Sim,Não,5,Acompanhar andamento
+E243,Acompanhar requerimento,Presencial,8.3,3,Não,Sim,1,Enviar documentos online
+E244,Acompanhar requerimento,E-mail,8.7,1,Sim,Não,2,Enviar documentos online
+E245,Solicitar documento,Portal atual,1.2,1,Sim,Não,4,Acompanhar andamento
+E246,Tirar dúvida financeira,E-mail,5.4,1,Não,Sim,3,Acompanhar andamento
+E247,Tirar dúvida financeira,Portal atual,3.4,1,Sim,Não,4,Receber notificações
+E248,Resolver matrícula,E-mail,7.8,1,Não,Não,2,Enviar documentos online
+E249,Acompanhar requerimento,Presencial,4.7,1,Sim,Não,4,Saber prazo estimado
+E250,Solicitar documento,E-mail,5.3,1,Sim,Não,3,Acompanhar andamento
+E251,Solicitar documento,E-mail,6.7,4,Sim,Não,3,Saber prazo estimado
+E252,Pedir aproveitamento,Portal atual,5.1,1,Sim,Não,3,Acompanhar andamento
+E253,Acompanhar requerimento,Presencial,3.9,1,Não,Não,4,Enviar documentos online
+E254,Tirar dúvida financeira,Telefone,4.0,1,Sim,Não,3,Enviar documentos online
+E255,Pedir aproveitamento,E-mail,9.0,1,Sim,Não,1,Receber notificações
+E256,Solicitar documento,E-mail,4.8,2,Sim,Não,3,Acompanhar andamento
+E257,Resolver matrícula,E-mail,5.9,1,Sim,Não,2,Saber prazo estimado
+E258,Tirar dúvida financeira,E-mail,5.3,3,Sim,Sim,3,Acompanhar andamento
+E259,Resolver matrícula,Portal atual,4.2,1,Sim,Não,4,Saber prazo estimado
+E260,Acompanhar requerimento,Presencial,4.7,3,Sim,Não,3,Receber notificações
+E261,Solicitar documento,Telefone,5.2,1,Sim,Não,3,Enviar documentos online
+E262,Pedir aproveitamento,E-mail,8.3,1,Sim,Não,2,Acompanhar andamento
+E263,Tirar dúvida financeira,Presencial,2.8,1,Sim,Não,4,Centralizar solicitações
+E264,Acompanhar requerimento,Telefone,5.3,2,Sim,Não,2,Saber prazo estimado
+E265,Resolver matrícula,Presencial,4.9,1,Sim,Não,4,Receber notificações
+E266,Acompanhar requerimento,Presencial,5.6,2,Sim,Não,2,Enviar documentos online
+E267,Solicitar documento,Presencial,4.7,2,Não,Não,3,Receber notificações
+E268,Solicitar documento,Presencial,3.2,1,Sim,Não,5,Enviar documentos online
+E269,Tirar dúvida financeira,Telefone,8.1,2,Não,Sim,2,Acompanhar andamento
+E270,Resolver matrícula,E-mail,7.1,2,Não,Não,2,Saber prazo estimado
+E271,Solicitar documento,E-mail,6.6,2,Sim,Não,2,Acompanhar andamento
+E272,Tirar dúvida financeira,Presencial,4.2,3,Não,Não,1,Acompanhar andamento
+E273,Acompanhar requerimento,Telefone,5.8,2,Não,Não,2,Enviar documentos online
+E274,Resolver matrícula,Presencial,10.4,4,Sim,Não,1,Saber prazo estimado
+E275,Solicitar documento,Telefone,3.7,2,Não,Não,3,Enviar documentos online
+E276,Acompanhar requerimento,Portal atual,4.2,2,Não,Não,1,Acompanhar andamento
+E277,Solicitar documento,Telefone,3.7,1,Sim,Não,4,Acompanhar andamento
+E278,Tirar dúvida financeira,E-mail,7.5,2,Sim,Não,3,Saber prazo estimado
+E279,Pedir aproveitamento,E-mail,8.2,1,Sim,Não,3,Acompanhar andamento
+E280,Pedir aproveitamento,Presencial,6.5,1,Não,Não,3,Acompanhar andamento
+E281,Resolver matrícula,Portal atual,3.5,1,Sim,Não,5,Centralizar solicitações
+E282,Solicitar documento,Presencial,3.3,1,Sim,Não,5,Acompanhar andamento
+E283,Tirar dúvida financeira,Portal atual,3.0,1,Sim,Não,4,Acompanhar andamento
+E284,Pedir aproveitamento,Telefone,7.5,2,Sim,Não,3,Acompanhar andamento
+E285,Tirar dúvida financeira,Presencial,3.9,1,Sim,Não,5,Saber prazo estimado
+E286,Resolver matrícula,Telefone,4.6,1,Sim,Não,2,Saber prazo estimado
+E287,Solicitar documento,Portal atual,1.6,1,Sim,Não,5,Enviar documentos online
+E288,Acompanhar requerimento,Presencial,3.0,2,Sim,Não,2,Acompanhar andamento
+E289,Pedir aproveitamento,Portal atual,6.8,1,Sim,Não,3,Acompanhar andamento
+E290,Solicitar documento,Presencial,3.1,1,Sim,Não,4,Centralizar solicitações
+E291,Resolver matrícula,Telefone,4.7,3,Sim,Não,2,Enviar documentos online
+E292,Acompanhar requerimento,E-mail,6.0,1,Sim,Não,4,Acompanhar andamento
+E293,Solicitar documento,Presencial,4.1,1,Sim,Não,5,Receber notificações
+E294,Acompanhar requerimento,Presencial,5.5,4,Sim,Não,1,Acompanhar andamento
+E295,Resolver matrícula,E-mail,9.5,3,Sim,Sim,1,Receber notificações
+E296,Resolver matrícula,Presencial,4.3,1,Sim,Não,4,Receber notificações
+E297,Resolver matrícula,Telefone,9.0,4,Sim,Não,1,Acompanhar andamento
+E298,Solicitar documento,E-mail,7.3,3,Não,Não,1,Acompanhar andamento
+E299,Solicitar documento,Presencial,2.4,1,Sim,Não,3,Enviar documentos online
+E300,Resolver matrícula,E-mail,6.2,2,Sim,Não,4,Enviar documentos online
+E301,Tirar dúvida financeira,Portal atual,1.5,1,Sim,Não,5,Receber notificações
+E302,Acompanhar requerimento,Presencial,6.5,3,Não,Não,1,Acompanhar andamento
+E303,Tirar dúvida financeira,Telefone,6.1,1,Não,Sim,2,Centralizar solicitações
+E304,Solicitar documento,Presencial,2.4,1,Sim,Não,5,Enviar documentos online
+E305,Tirar dúvida financeira,Presencial,6.4,2,Sim,Sim,1,Acompanhar andamento
+E306,Acompanhar requerimento,Presencial,3.6,1,Sim,Não,5,Centralizar solicitações
+E307,Acompanhar requerimento,Presencial,5.1,2,Sim,Não,3,Acompanhar andamento
+E308,Acompanhar requerimento,Telefone,4.5,1,Sim,Não,4,Acompanhar andamento
+E309,Tirar dúvida financeira,Presencial,2.7,1,Não,Não,3,Enviar documentos online
+E310,Pedir aproveitamento,Telefone,7.4,1,Sim,Não,4,Acompanhar andamento
+E311,Solicitar documento,E-mail,5.9,3,Sim,Não,1,Enviar documentos online
+E312,Solicitar documento,Portal atual,4.3,1,Sim,Não,5,Saber prazo estimado
+E313,Tirar dúvida financeira,Presencial,5.8,1,Não,Não,4,Acompanhar andamento
+E314,Pedir aproveitamento,Portal atual,4.3,1,Sim,Não,2,Enviar documentos online
+E315,Resolver matrícula,Presencial,5.3,2,Não,Sim,2,Acompanhar andamento
+E316,Acompanhar requerimento,Telefone,9.8,1,Não,Não,1,Saber prazo estimado
+E317,Resolver matrícula,Telefone,4.7,3,Não,Sim,2,Enviar documentos online
+E318,Tirar dúvida financeira,E-mail,8.9,1,Sim,Não,3,Acompanhar andamento
+E319,Acompanhar requerimento,E-mail,6.3,1,Não,Não,2,Centralizar solicitações
+E320,Acompanhar requerimento,Telefone,3.7,1,Sim,Não,4,Acompanhar andamento
+E321,Solicitar documento,Telefone,3.3,1,Sim,Não,5,Centralizar solicitações
+E322,Acompanhar requerimento,Portal atual,6.5,1,Sim,Não,3,Centralizar solicitações
+E323,Solicitar documento,Portal atual,2.5,1,Sim,Não,5,Centralizar solicitações
+E324,Resolver matrícula,Presencial,4.1,1,Sim,Não,4,Acompanhar andamento
+E325,Resolver matrícula,Presencial,5.9,1,Sim,Não,3,Acompanhar andamento
+E326,Pedir aproveitamento,Portal atual,5.0,1,Sim,Não,4,Saber prazo estimado
+E327,Solicitar documento,Telefone,3.9,1,Não,Sim,4,Enviar documentos online
+E328,Pedir aproveitamento,Telefone,9.8,1,Não,Não,2,Acompanhar andamento
+E329,Resolver matrícula,Presencial,4.4,1,Não,Não,3,Saber prazo estimado
+E330,Tirar dúvida financeira,Telefone,6.0,1,Sim,Não,3,Saber prazo estimado
+E331,Acompanhar requerimento,Telefone,4.6,1,Sim,Não,4,Acompanhar andamento
+E332,Tirar dúvida financeira,Presencial,3.7,2,Sim,Não,3,Acompanhar andamento
+E333,Tirar dúvida financeira,Telefone,4.9,1,Sim,Não,4,Saber prazo estimado
+E334,Acompanhar requerimento,Portal atual,4.0,1,Sim,Sim,3,Acompanhar andamento
+E335,Resolver matrícula,Telefone,6.9,1,Não,Não,2,Acompanhar andamento
+E336,Resolver matrícula,Presencial,6.5,2,Não,Não,2,Enviar documentos online
+E337,Tirar dúvida financeira,E-mail,12.8,1,Sim,Sim,1,Acompanhar andamento
+E338,Resolver matrícula,E-mail,8.3,2,Sim,Não,2,Saber prazo estimado
+E339,Acompanhar requerimento,E-mail,5.3,1,Sim,Sim,3,Acompanhar andamento
+E340,Resolver matrícula,E-mail,8.9,2,Sim,Não,1,Acompanhar andamento
+E341,Pedir aproveitamento,Portal atual,5.4,2,Não,Não,2,Receber notificações
+E342,Tirar dúvida financeira,E-mail,6.7,1,Sim,Sim,3,Enviar documentos online
+E343,Tirar dúvida financeira,E-mail,4.9,1,Sim,Não,5,Receber notificações
+E344,Acompanhar requerimento,Telefone,3.7,1,Não,Não,3,Centralizar solicitações
+E345,Pedir aproveitamento,Presencial,4.9,2,Não,Não,3,Enviar documentos online
+E346,Resolver matrícula,Presencial,3.8,1,Sim,Sim,4,Saber prazo estimado
+E347,Acompanhar requerimento,E-mail,8.5,3,Não,Sim,1,Acompanhar andamento
+E348,Resolver matrícula,E-mail,7.3,1,Sim,Não,2,Acompanhar andamento
+E349,Solicitar documento,E-mail,5.1,2,Sim,Sim,2,Acompanhar andamento
+E350,Resolver matrícula,E-mail,6.8,2,Não,Não,1,Enviar documentos online
+E351,Tirar dúvida financeira,E-mail,5.5,2,Sim,Não,2,Saber prazo estimado
+E352,Solicitar documento,E-mail,5.0,2,Não,Não,5,Centralizar solicitações
+E353,Tirar dúvida financeira,Presencial,2.2,1,Sim,Não,5,Enviar documentos online
+E354,Acompanhar requerimento,Presencial,3.4,1,Sim,Não,4,Acompanhar andamento
+E355,Acompanhar requerimento,E-mail,7.9,3,Sim,Sim,1,Acompanhar andamento
+E356,Tirar dúvida financeira,Presencial,4.2,1,Sim,Sim,5,Centralizar solicitações
+E357,Resolver matrícula,Telefone,6.5,2,Não,Não,3,Enviar documentos online
+E358,Tirar dúvida financeira,Portal atual,1.8,1,Sim,Não,5,Enviar documentos online
+E359,Resolver matrícula,Presencial,5.8,2,Sim,Não,3,Saber prazo estimado
+E360,Pedir aproveitamento,E-mail,9.1,5,Não,Não,1,Acompanhar andamento
+E361,Resolver matrícula,Telefone,5.4,1,Sim,Não,3,Receber notificações
+E362,Tirar dúvida financeira,E-mail,5.0,4,Sim,Não,1,Receber notificações
+E363,Pedir aproveitamento,Telefone,6.9,1,Sim,Não,3,Saber prazo estimado
+E364,Tirar dúvida financeira,Presencial,2.9,1,Sim,Não,4,Enviar documentos online
+E365,Solicitar documento,E-mail,7.5,3,Sim,Não,2,Saber prazo estimado
+E366,Acompanhar requerimento,Portal atual,3.6,1,Sim,Não,4,Centralizar solicitações
+E367,Solicitar documento,E-mail,5.7,1,Sim,Não,4,Acompanhar andamento
+E368,Solicitar documento,E-mail,6.8,2,Sim,Não,2,Centralizar solicitações
+E369,Tirar dúvida financeira,Portal atual,1.1,1,Sim,Não,5,Acompanhar andamento
+E370,Acompanhar requerimento,Portal atual,5.1,1,Sim,Não,3,Centralizar solicitações
+E371,Tirar dúvida financeira,E-mail,8.2,2,Não,Não,2,Receber notificações
+E372,Acompanhar requerimento,E-mail,7.1,1,Sim,Não,3,Saber prazo estimado
+E373,Resolver matrícula,Telefone,8.0,3,Não,Não,1,Receber notificações
+E374,Pedir aproveitamento,Presencial,7.3,2,Sim,Não,3,Receber notificações
+E375,Resolver matrícula,Presencial,5.1,2,Sim,Não,2,Acompanhar andamento
+E376,Pedir aproveitamento,E-mail,7.5,3,Sim,Não,1,Receber notificações
+E377,Resolver matrícula,E-mail,6.8,3,Não,Sim,3,Centralizar solicitações
+E378,Tirar dúvida financeira,E-mail,5.2,2,Não,Não,2,Acompanhar andamento
+E379,Acompanhar requerimento,Presencial,5.5,1,Sim,Não,5,Acompanhar andamento
+E380,Solicitar documento,E-mail,7.0,1,Sim,Não,3,Acompanhar andamento
+E381,Solicitar documento,Portal atual,2.3,1,Sim,Não,5,Receber notificações
+E382,Tirar dúvida financeira,E-mail,4.9,1,Não,Não,4,Enviar documentos online
+E383,Resolver matrícula,Presencial,11.1,3,Sim,Não,1,Receber notificações
+E384,Resolver matrícula,Presencial,3.5,1,Sim,Não,4,Acompanhar andamento
+E385,Solicitar documento,E-mail,5.8,2,Sim,Não,3,Enviar documentos online
+E386,Resolver matrícula,Telefone,8.0,7,Não,Não,1,Saber prazo estimado
+E387,Resolver matrícula,Telefone,6.4,1,Sim,Não,3,Centralizar solicitações
+E388,Tirar dúvida financeira,E-mail,5.6,1,Sim,Não,4,Acompanhar andamento
+E389,Solicitar documento,Portal atual,1.7,1,Sim,Não,5,Receber notificações
+E390,Solicitar documento,Presencial,2.6,1,Sim,Não,4,Acompanhar andamento
+E391,Acompanhar requerimento,Presencial,2.5,1,Sim,Sim,4,Receber notificações
+E392,Resolver matrícula,Telefone,6.3,4,Sim,Não,2,Enviar documentos online
+E393,Acompanhar requerimento,Presencial,6.7,1,Sim,Não,2,Acompanhar andamento
+E394,Resolver matrícula,Telefone,5.1,1,Sim,Não,3,Enviar documentos online
+E395,Pedir aproveitamento,E-mail,8.9,1,Sim,Sim,3,Acompanhar andamento
+E396,Pedir aproveitamento,E-mail,10.2,2,Não,Sim,1,Receber notificações
+E397,Resolver matrícula,Presencial,6.2,3,Sim,Não,2,Acompanhar andamento
+E398,Resolver matrícula,Portal atual,2.7,1,Sim,Não,5,Receber notificações
+E399,Pedir aproveitamento,Presencial,5.6,2,Sim,Não,3,Saber prazo estimado
+E400,Pedir aproveitamento,Presencial,5.8,1,Sim,Não,4,Acompanhar andamento
+E401,Acompanhar requerimento,E-mail,8.2,2,Não,Não,1,Acompanhar andamento
+E402,Tirar dúvida financeira,Presencial,1.7,1,Sim,Não,5,Acompanhar andamento
+E403,Acompanhar requerimento,E-mail,7.0,1,Sim,Não,3,Enviar documentos online
+E404,Tirar dúvida financeira,Portal atual,3.6,3,Sim,Não,3,Receber notificações
+E405,Acompanhar requerimento,E-mail,6.0,1,Sim,Não,3,Saber prazo estimado
+E406,Tirar dúvida financeira,E-mail,5.5,2,Não,Não,3,Centralizar solicitações
+E407,Resolver matrícula,E-mail,7.3,3,Sim,Não,3,Saber prazo estimado
+E408,Solicitar documento,E-mail,6.0,1,Não,Não,1,Receber notificações
+E409,Solicitar documento,E-mail,5.7,2,Sim,Sim,3,Acompanhar andamento
+E410,Tirar dúvida financeira,Presencial,3.5,1,Não,Não,4,Centralizar solicitações
+E411,Acompanhar requerimento,Telefone,8.6,3,Sim,Não,1,Enviar documentos online
+E412,Resolver matrícula,E-mail,6.4,1,Sim,Não,2,Acompanhar andamento
+E413,Tirar dúvida financeira,Presencial,3.9,1,Sim,Não,4,Acompanhar andamento
+E414,Resolver matrícula,E-mail,6.3,1,Sim,Não,2,Centralizar solicitações
+E415,Acompanhar requerimento,E-mail,8.0,1,Sim,Sim,4,Acompanhar andamento
+E416,Solicitar documento,Telefone,2.4,1,Sim,Não,3,Acompanhar andamento
+E417,Solicitar documento,E-mail,5.9,2,Sim,Não,3,Receber notificações
+E418,Solicitar documento,Telefone,2.4,1,Não,Não,5,Enviar documentos online
+E419,Pedir aproveitamento,E-mail,9.8,3,Sim,Não,1,Saber prazo estimado
+E420,Resolver matrícula,Telefone,4.3,1,Não,Não,3,Acompanhar andamento
